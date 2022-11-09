@@ -1,0 +1,15 @@
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/bin/Debug/net6.0/task
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/bin/Debug/net6.0/task.deps.json
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/bin/Debug/net6.0/task.dll
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/bin/Debug/net6.0/task.pdb
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/obj/Debug/net6.0/task.dll
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/obj/Debug/net6.0/refint/task.dll
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/obj/Debug/net6.0/task.pdb
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/aleksandra/Desktop/Разработчик/FinalWork/task/obj/Debug/net6.0/ref/task.dll
